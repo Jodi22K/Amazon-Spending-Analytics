@@ -31,13 +31,10 @@ Frequent Amazon shoppers may not have a clear understanding of their spending ha
 **Python**:
    - Utilized **Pandas**, **Matplotlib**, and **NumPy** to further analyze the data, performing trend analysis and visualizing key metrics like monthly spend and top categories.
 
-**Power BI**:
-   - Created a dynamic dashboard to track Amazon purchases over time, utilizing **DAX functions**, calculated columns, and data modeling to display insights such as total spend, most expensive months, and average spend per category.
-
 ---
 
 ### **Skills**:
-- **SQL**: CTEs, Joins, aggregate functions, data transformation, window functions.
+- **Excel**: Cpeaning, aggregate functions, data transformation, Pivot Tables
 - **Python**: Proficiency in Pandas for data manipulation, Matplotlib for plotting spending trends, and NumPy for additional numerical analysis.
 
 ---
