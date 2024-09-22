@@ -34,7 +34,7 @@ Frequent Amazon shopperslike me may not have a clear understanding of their spen
 ---
 
 ### **Skills**:
-- **Excel**: Cpeaning, aggregate functions, data transformation, Pivot Tables
+- **Excel**: Cleaning, aggregate functions, data transformation, Pivot Tables
 - **Python**: Proficiency in Pandas for data manipulation, Matplotlib for plotting spending trends, and NumPy for additional numerical analysis.
 
 ---
