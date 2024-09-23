@@ -5,12 +5,14 @@
 **Executive Summary:**
 This project is an exploratory analysis of Amazon spending trends using **Excel** and **Python** Over the years, with frequent Amazon purchases, this analysis provides insights into spending habits, categories, and changes over time. I extracted my personal order data, cleaned and transformed it, then visualized spending trends with the goal of identifying patterns and making data-driven recommendations to optimize future purchasing decisions.
 
-The analysis revealed key trends, such as spending spikes during holiday seasons and increasing volumes of returns in certain categories, indicating increasing dissatisfaction. Based on these insights, I recommend strategies to better manage my spending and make informed decisions regarding future Amazon purchases.
+The analysis revealed key trends, such as spending spikes during holiday seasons and high rates of return/general dissatisfaction with various product categories. Based on these insights, I recommend strategies to better manage my spending and make informed decisions regarding future Amazon purchases.
 
 ---
 
 ### **Business Problem:**
+
 Frequent Amazon shoppers like myself may not have a clear understanding of their spending habits or how those habits evolve over time. Without visibility into how much is spent on different categories, individuals cannot optimize their purchasing decisions. By analyzing historical spending data, we aim to identify spending patterns and provide insights to help users make more conscious purchasing choices.
+=======
 
 **Key Questions**:
 1. What categories make up the largest portion of spending?
@@ -31,13 +33,10 @@ Frequent Amazon shoppers like myself may not have a clear understanding of their
 **Python**:
    - Utilized **Pandas**, **Matplotlib**, and **NumPy** to further analyze the data, performing trend analysis and visualizing key metrics like monthly spend and top categories.
 
-**Power BI**:
-   - Created a dynamic dashboard to track Amazon purchases over time, utilizing **DAX functions**, calculated columns, and data modeling to display insights such as total spend, most expensive months, and average spend per category.
-
 ---
 
 ### **Skills**:
-- **SQL**: CTEs, Joins, aggregate functions, data transformation, window functions.
+- **Excel**: Cleaning, aggregate functions, data transformation, Pivot Tables
 - **Python**: Proficiency in Pandas for data manipulation, Matplotlib for plotting spending trends, and NumPy for additional numerical analysis.
 
 ---
@@ -68,7 +67,6 @@ By understanding historical spending behavior and leveraging data insights, indi
 
 ---
 
-This revision aligns your README with the focus on personal Amazon spending, similar to the analysis described in the Dataquest project, while still demonstrating your skills in SQL, Python, and Power BI.
 
 
 
