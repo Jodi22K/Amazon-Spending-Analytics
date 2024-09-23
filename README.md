@@ -37,7 +37,6 @@ Frequent Amazon shoppers like myself may not have a clear understanding of their
 ---
 
 ### **Skills**:
-- **SQL**: CTEs, Joins, aggregate functions, data transformation, window functions.
 - **Python**: Proficiency in Pandas for data manipulation, Matplotlib for plotting spending trends, and NumPy for additional numerical analysis.
 
 ---
