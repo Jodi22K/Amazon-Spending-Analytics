@@ -3,14 +3,14 @@
 ### 
 
 **Executive Summary:**
-This project is an exploratory analysis of Amazon spending trends using **Excel** and **Python** Over the years, with frequent Amazon purchases, this analysis provides insights into spending habits, categories, and changes over time. I extracted order data, cleaned and transformed it, then visualized spending trends with the goal of identifying patterns and making data-driven recommendations to optimize future purchasing decisions.
+This project is an exploratory analysis of Amazon spending trends using **Excel** and **Python** Over the years, with frequent Amazon purchases, this analysis provides insights into spending habits, categories, and changes over time. I extracted my personal order data, cleaned and transformed it, then visualized spending trends with the goal of identifying patterns and making data-driven recommendations to optimize future purchasing decisions.
 
-The analysis revealed key trends, such as spending spikes during holiday seasons and an increasing preference for digital products. Based on these insights, I recommend strategies to better manage spending and make informed decisions regarding future Amazon purchases.
+The analysis revealed key trends, such as spending spikes during holiday seasons and increasing volumes of returns in certain categories, indicating increasing dissatisfaction. Based on these insights, I recommend strategies to better manage my spending and make informed decisions regarding future Amazon purchases.
 
 ---
 
 ### **Business Problem:**
-Frequent Amazon shoppers may not have a clear understanding of their spending habits or how those habits evolve over time. Without visibility into how much is spent on different categories, individuals cannot optimize their purchasing decisions. By analyzing historical spending data, we aim to identify spending patterns and provide insights to help users make more conscious purchasing choices.
+Frequent Amazon shoppers like myself may not have a clear understanding of their spending habits or how those habits evolve over time. Without visibility into how much is spent on different categories, individuals cannot optimize their purchasing decisions. By analyzing historical spending data, we aim to identify spending patterns and provide insights to help users make more conscious purchasing choices.
 
 **Key Questions**:
 1. What categories make up the largest portion of spending?
