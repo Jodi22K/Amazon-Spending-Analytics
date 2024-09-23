@@ -67,9 +67,6 @@ By understanding historical spending behavior and leveraging data insights, indi
 
 ---
 
-This revision aligns your README with the focus on personal Amazon spending, similar to the analysis described in the Dataquest project, while still demonstrating your skills in SQL, Python, and Power BI.
-
-
 
 
 
