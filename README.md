@@ -57,6 +57,8 @@ The analysis provided clear insights into my Amazon spending trends:
 1. **A/B Test Budgeting Strategies**: Experiment with setting category-specific budgets and track how spending behavior changes over time.
 2. **Long-Term Spending Forecast**: Use Python to build a basic predictive model that forecasts spending patterns based on historical data and upcoming sales events.
 
+
+
 ---
 
 By understanding historical spending behavior and leveraging data insights, individuals can make more informed decisions about their future Amazon purchases.
