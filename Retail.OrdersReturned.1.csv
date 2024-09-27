@@ -1,71 +1,71 @@
-﻿"Website","ReversalID","OrderID","CreationDate","Quantity","Currency","ReversalStatus","ReversalAmountState","ReversalReason","DirectDebitRefundAmount"
-"Amazon.ca","Ni8SxwwwS7iuyzZ1BYyvFg","702-7845168-0330623","2024-07-25T19:03:35.340Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","mVJpUrsMSjeXfsublu7+Eg","702-7339144-2714656","2024-07-18T22:27:55.006Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","95fDoeUiRASd//acnxeBBQ","702-9903012-8996264","2024-04-07T23:00:55.166Z","1","CAD","Declined","Final","Customer return","0"
-"Amazon.ca","VgWmWZCPS9mARO5w3yAV9Q","702-4853823-3977051","2024-03-29T19:51:16.577Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","Pa9qzNt1QYKrqM9QDTBUNA","702-2382685-0809025","2024-03-28T23:51:53.762Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","qEKDt0CSTNeI+ZB6Ex0kZA","702-2382685-0809025","2024-03-28T23:49:55.894Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","50+g69LeS2mXg6WCgT+Jvw","702-2382685-0809025","2024-03-28T23:47:35.726Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","Wji1D6Z/SZ+hLO1Bhf15kQ","702-8284655-5354667","2024-03-26T20:51:01.931Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","kKjDkRhpSLa8h4BIweddKw","702-8782482-7119454","2024-03-26T20:49:39.838Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","uYGuCzZSTdSTmrHBLbxmhQ","701-6698883-0222650","2023-11-19T22:24:33.692Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","5wT6zfsCTxmEU6HOxeaAjg","701-6698883-0222650","2023-11-07T21:11:35.738Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","5AIvO1N5Squ//L0EH0VlEw","701-6698883-0222650","2023-11-07T21:10:27.365Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","5AIvO1N5Squ//L0EH0VlEw","701-6698883-0222650","2023-11-07T21:10:27.365Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","8FDB3zEXQLiWSUI90LQNEw","701-1544873-8280247","2023-10-20T15:27:48.737Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","30HAhO+ySPmMi5wJQHtjiw","701-2542192-2580254","2023-10-17T22:44:21.682Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","FSeftQUQRW++/Va95oMTeg","701-2483385-1254657","2023-10-17T22:44:18.910Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","G4cHXcAHTD6FrQ3o+ClDwQ","701-8659257-8515420","2023-09-24T18:29:18.124Z","1","CAD","Completed","Final","Wrong item was sent","0"
-"Amazon.ca","EAakBEgdTmmH8R+z96/Crw","701-9346887-4375409","2023-06-15T22:21:32.947Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","FTHInMFiRoG8TB84PErtlw","701-1827146-5843460","2023-06-07T12:01:30.320Z","4","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","FTHInMFiRoG8TB84PErtlw","701-1827146-5843460","2023-06-07T12:01:30.320Z","4","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","FTHInMFiRoG8TB84PErtlw","701-1827146-5843460","2023-06-07T12:01:30.320Z","4","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","FTHInMFiRoG8TB84PErtlw","701-1827146-5843460","2023-06-07T12:01:30.320Z","4","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","vwx9dYxbSKeoxQfKKatGkA","701-9621566-5166662","2023-06-03T02:26:23.890Z","1","CAD","Completed","Final","Item not satisfactory","0"
-"Amazon.ca","QSgz/QlnSL6QavbJ84ofjQ","701-6507823-9321862","2023-05-27T11:48:06.663Z","10","CAD","Completed","Final","Shipping address is undeliverable","0"
-"Amazon.ca","QSgz/QlnSL6QavbJ84ofjQ","701-6507823-9321862","2023-05-27T11:48:06.663Z","10","CAD","Completed","Final","Shipping address is undeliverable","0"
-"Amazon.ca","QSgz/QlnSL6QavbJ84ofjQ","701-6507823-9321862","2023-05-27T11:48:06.663Z","10","CAD","Completed","Final","Shipping address is undeliverable","0"
-"Amazon.ca","QSgz/QlnSL6QavbJ84ofjQ","701-6507823-9321862","2023-05-27T11:48:06.663Z","10","CAD","Completed","Final","Shipping address is undeliverable","0"
-"Amazon.ca","QSgz/QlnSL6QavbJ84ofjQ","701-6507823-9321862","2023-05-27T11:48:06.663Z","10","CAD","Completed","Final","Shipping address is undeliverable","0"
-"Amazon.ca","QSgz/QlnSL6QavbJ84ofjQ","701-6507823-9321862","2023-05-27T11:48:06.663Z","10","CAD","Completed","Final","Shipping address is undeliverable","0"
-"Amazon.ca","QSgz/QlnSL6QavbJ84ofjQ","701-6507823-9321862","2023-05-27T11:48:06.663Z","10","CAD","Completed","Final","Shipping address is undeliverable","0"
-"Amazon.ca","QSgz/QlnSL6QavbJ84ofjQ","701-6507823-9321862","2023-05-27T11:48:06.663Z","10","CAD","Completed","Final","Shipping address is undeliverable","0"
-"Amazon.ca","QSgz/QlnSL6QavbJ84ofjQ","701-6507823-9321862","2023-05-27T11:48:06.663Z","10","CAD","Completed","Final","Shipping address is undeliverable","0"
-"Amazon.ca","QSgz/QlnSL6QavbJ84ofjQ","701-6507823-9321862","2023-05-27T11:48:06.663Z","10","CAD","Completed","Final","Shipping address is undeliverable","0"
-"Amazon.ca","MUhLqxdtR1Wyk30VGLBBPw","702-8999797-4190605","2023-01-31T20:05:48.436Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","z93JGhBITyiiGP9TLMiKiA","702-8302311-8385012","2023-01-10T20:45:34.463Z","1","CAD","Completed","Final","Item arrived late","0"
-"Amazon.ca","tMkHnpTaTSOEUgFoGoG5Hg","701-5117969-5792247","2022-11-21T00:45:55.748Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","9rzxzUimRpejI3clrdhkiQ","701-8576516-9580219","2022-11-21T00:45:30.470Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","9rzxzUimRpejI3clrdhkiQ","701-8576516-9580219","2022-11-21T00:45:30.470Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","OYEQSbn9TwW/kdunt2GA8w","701-6697981-4185813","2022-11-19T19:37:27.444Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","ULMQz5ZkQ9uYI8UBrpPpfw","701-6697981-4185813","2022-11-19T19:37:26.738Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","jFNMndqbQtmS0Z+kDiVVGg","701-6697981-4185813","2022-11-19T19:36:08.709Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","JXsa1uHPRySq3ryM41zyAA","701-6697981-4185813","2022-11-19T19:32:30.200Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","40ItsC5HSCOu0cg9gaufyA","701-6697981-4185813","2022-11-19T19:32:29.245Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","tuzof4K/QZuf8qtSHBJMng","701-0246593-5850612","2022-10-29T21:58:00.615Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","tuzof4K/QZuf8qtSHBJMng","701-0246593-5850612","2022-10-29T21:58:00.615Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","tuzof4K/QZuf8qtSHBJMng","701-0246593-5850612","2022-10-29T21:58:00.615Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","tuzof4K/QZuf8qtSHBJMng","701-0246593-5850612","2022-10-29T21:58:00.615Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","tuzof4K/QZuf8qtSHBJMng","701-0246593-5850612","2022-10-29T21:58:00.615Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","v3dhPBlbSTCSIITSjnl/ow","701-6697981-4185813","2022-10-29T21:52:55.928Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","lWilIUQIRRm7S+lUCg4ZEA","701-6697981-4185813","2022-10-29T21:52:54.910Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","6JxhivAhSOOJWa642p6eCQ","701-8654753-3193049","2022-07-29T20:26:31.877Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","lJbjkRQjRsyNCZzZ0v6VOA","701-6567644-8981059","2022-07-29T20:25:26.854Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","hfMQainoTz28sz8totomOg","701-4183346-3687458","2022-07-17T20:40:44.311Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","zce07ROJTA20W8TJZhQF5w","701-6567644-8981059","2022-07-17T20:31:49.310Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","STclFfFSR0uM2NXt+Pgudw","701-0378027-0461807","2022-06-21T21:45:16.832Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","frAYKDxyTeOPmPdaLm7Bbw","701-7982694-5835469","2022-06-21T21:38:39.876Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","frAYKDxyTeOPmPdaLm7Bbw","701-7982694-5835469","2022-06-21T21:38:39.876Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","OYGPoAkcRLadSTOFfuVo7Q","701-3852411-0621830","2022-04-21T23:05:19.558Z","2","CAD","Completed","Final","Item not received","0"
-"Amazon.ca","OYGPoAkcRLadSTOFfuVo7Q","701-3852411-0621830","2022-04-21T23:05:19.558Z","2","CAD","Completed","Final","Item not received","0"
-"Amazon.ca","pY2eRf1gQQW4oQMIJsVAGA","701-3852411-0621830","2022-04-21T23:05:18.331Z","1","CAD","Completed","Final","Item not received","0"
-"Amazon.ca","wmIiNx3HRICtuD4KAEerNA","701-0708299-8565026","2022-03-07T08:26:07.135Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","Lv/NQ73oSEqSsxcXD0oYmA","701-5343597-0217037","2022-01-22T21:32:46.856Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","HQzTDttCQIOzT6961r7Fmg","701-0111128-2235475","2022-01-22T21:19:19.197Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","t8HLHQuZSTq4beNZWAqm9Q","701-4598119-6309824","2022-01-22T21:19:01.483Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","OuLnjBOuTJi0xn9IWZIltw","701-4329685-1773022","2022-01-22T21:12:48.878Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","'+y+sO3VoRy6fR7Wl/JsOeA'","701-8034757-2385860","2022-01-22T21:11:27.698Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","bux4bCpBQgyq5mjgvkr3qA","701-8034757-2385860","2022-01-22T21:11:27.170Z","1","CAD","Completed","Final","Customer return","0"
-"Amazon.ca","HTdvVukySBm0kaNKz19WVg","701-1969481-5060205","2021-12-16T03:41:46.821Z","1","CAD","Completed","Final","Item shipped late","0"
-"Amazon.ca","v0Dn7u5STieBKGUtn20gfQ","701-1679240-6825028","2021-09-25T01:34:47.351Z","1","CAD","Completed","Final","Item not received","0"
-"Amazon.ca","v0Dn7u5STieBKGUtn20gfQ","701-1679240-6825028","2021-09-25T01:34:47.351Z","1","CAD","Completed","Final","Item not received","0"
+﻿Website,ReversalID,OrderID,CreationDate,Quantity,RefundCompletionDate,RefundCompletionDate2,Amount,Currency,DisbursementType,ReversalStatus,ReversalAmountState,ReversalReason,DirectDebitRefundAmount
+Amazon.ca,Ni8SxwwwS7iuyzZ1BYyvFg,702-7845168-0330623,7/25/2024 15:03,1,7/19/2024,45498.76488,13.55,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,mVJpUrsMSjeXfsublu7+Eg,702-7339144-2714656,7/18/2024 18:27,1,4/8/2024,45491.89091,22.59,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,95fDoeUiRASd//acnxeBBQ,702-9903012-8996264,4/7/2024 19:00,1,3/30/2024,45389.82629,0,CAD,Refund,Declined,Final,Customer return,0
+Amazon.ca,VgWmWZCPS9mARO5w3yAV9Q,702-4853823-3977051,3/29/2024 15:51,1,3/29/2024,45380.79241,21.46,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,Pa9qzNt1QYKrqM9QDTBUNA,702-2382685-0809025,3/28/2024 19:51,1,3/29/2024,45379.9792,33.89,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,qEKDt0CSTNeI+ZB6Ex0kZA,702-2382685-0809025,3/28/2024 19:49,1,3/27/2024,45379.9792,33.89,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,Wji1D6Z/SZ+hLO1Bhf15kQ,702-8284655-5354667,3/26/2024 16:51,1,3/29/2024,45377.8336,44.06,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,50+g69LeS2mXg6WCgT+Jvw,702-2382685-0809025,3/28/2024 19:47,1,3/27/2024,45379.9792,33.89,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,kKjDkRhpSLa8h4BIweddKw,702-8782482-7119454,3/26/2024 16:49,1,11/20/2023,45377.83502,53.09,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,uYGuCzZSTdSTmrHBLbxmhQ,701-6698883-0222650,11/19/2023 17:24,1,11/20/2023,45249.76484,13.76,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,5wT6zfsCTxmEU6HOxeaAjg,701-6698883-0222650,11/7/2023 16:11,1,11/20/2023,45249.76484,13.76,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,5AIvO1N5Squ//L0EH0VlEw,701-6698883-0222650,11/7/2023 16:10,1,11/20/2023,45249.76484,13.76,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,5AIvO1N5Squ//L0EH0VlEw,701-6698883-0222650,11/7/2023 16:10,1,10/18/2023,45249.76484,13.76,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,30HAhO+ySPmMi5wJQHtjiw,701-2542192-2580254,10/17/2023 18:44,1,10/21/2023,45216.82729,18.07,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,8FDB3zEXQLiWSUI90LQNEw,701-1544873-8280247,10/20/2023 11:27,1,10/18/2023,45219.50587,36.1,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,FSeftQUQRW++/Va95oMTeg,701-2483385-1254657,10/17/2023 18:44,1,9/25/2023,45216.83399,36.1,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,G4cHXcAHTD6FrQ3o+ClDwQ,701-8659257-8515420,9/24/2023 14:29,1,6/16/2023,45193.65481,7.33,CAD,Refund,Completed,Final,Wrong item was sent,0
+Amazon.ca,EAakBEgdTmmH8R+z96/Crw,701-9346887-4375409,6/15/2023 18:21,1,6/8/2023,45092.88292,14.68,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,FTHInMFiRoG8TB84PErtlw,701-1827146-5843460,6/7/2023 8:01,4,6/8/2023,45084.43823,114.33,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,FTHInMFiRoG8TB84PErtlw,701-1827146-5843460,6/7/2023 8:01,4,6/8/2023,45084.43823,114.33,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,FTHInMFiRoG8TB84PErtlw,701-1827146-5843460,6/7/2023 8:01,4,6/8/2023,45084.43823,114.33,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,FTHInMFiRoG8TB84PErtlw,701-1827146-5843460,6/7/2023 8:01,4,6/3/2023,45084.43823,114.33,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,vwx9dYxbSKeoxQfKKatGkA,701-9621566-5166662,6/2/2023 22:26,1,5/28/2023,45079.97722,7.36,CAD,Refund,Completed,Final,Item not satisfactory,0
+Amazon.ca,QSgz/QlnSL6QavbJ84ofjQ,701-6507823-9321862,5/27/2023 7:48,10,5/28/2023,45073.42911,336.6,CAD,Refund,Completed,Final,Shipping address is undeliverable,0
+Amazon.ca,QSgz/QlnSL6QavbJ84ofjQ,701-6507823-9321862,5/27/2023 7:48,10,5/28/2023,45073.42911,336.6,CAD,Refund,Completed,Final,Shipping address is undeliverable,0
+Amazon.ca,QSgz/QlnSL6QavbJ84ofjQ,701-6507823-9321862,5/27/2023 7:48,10,5/28/2023,45073.42911,336.6,CAD,Refund,Completed,Final,Shipping address is undeliverable,0
+Amazon.ca,QSgz/QlnSL6QavbJ84ofjQ,701-6507823-9321862,5/27/2023 7:48,10,5/28/2023,45073.42911,336.6,CAD,Refund,Completed,Final,Shipping address is undeliverable,0
+Amazon.ca,QSgz/QlnSL6QavbJ84ofjQ,701-6507823-9321862,5/27/2023 7:48,10,5/28/2023,45073.42911,336.6,CAD,Refund,Completed,Final,Shipping address is undeliverable,0
+Amazon.ca,QSgz/QlnSL6QavbJ84ofjQ,701-6507823-9321862,5/27/2023 7:48,10,5/28/2023,45073.42911,336.6,CAD,Refund,Completed,Final,Shipping address is undeliverable,0
+Amazon.ca,QSgz/QlnSL6QavbJ84ofjQ,701-6507823-9321862,5/27/2023 7:48,10,5/28/2023,45073.42911,336.6,CAD,Refund,Completed,Final,Shipping address is undeliverable,0
+Amazon.ca,QSgz/QlnSL6QavbJ84ofjQ,701-6507823-9321862,5/27/2023 7:48,10,5/28/2023,45073.42911,336.6,CAD,Refund,Completed,Final,Shipping address is undeliverable,0
+Amazon.ca,QSgz/QlnSL6QavbJ84ofjQ,701-6507823-9321862,5/27/2023 7:48,10,5/28/2023,45073.42911,336.6,CAD,Refund,Completed,Final,Shipping address is undeliverable,0
+Amazon.ca,QSgz/QlnSL6QavbJ84ofjQ,701-6507823-9321862,5/27/2023 7:48,10,2/1/2023,45073.42911,336.6,CAD,Refund,Completed,Final,Shipping address is undeliverable,0
+Amazon.ca,MUhLqxdtR1Wyk30VGLBBPw,702-8999797-4190605,1/31/2023 15:05,1,11/21/2022,44957.75239,188.74,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,tMkHnpTaTSOEUgFoGoG5Hg,701-5117969-5792247,11/20/2022 19:45,1,11/21/2022,44885.95484,33.85,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,9rzxzUimRpejI3clrdhkiQ,701-8576516-9580219,11/20/2022 19:45,1,1/11/2023,44885.96393,39.96,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,z93JGhBITyiiGP9TLMiKiA,702-8302311-8385012,1/10/2023 15:45,1,11/21/2022,44936.79009,69.21,CAD,Refund,Completed,Final,Item arrived late,0
+Amazon.ca,9rzxzUimRpejI3clrdhkiQ,701-8576516-9580219,11/20/2022 19:45,1,11/20/2022,44885.96393,39.96,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,OYEQSbn9TwW/kdunt2GA8w,701-6697981-4185813,11/19/2022 14:37,1,11/20/2022,44884.74468,28.24,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,ULMQz5ZkQ9uYI8UBrpPpfw,701-6697981-4185813,11/19/2022 14:37,1,11/20/2022,44884.74468,28.24,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,jFNMndqbQtmS0Z+kDiVVGg,701-6697981-4185813,11/19/2022 14:36,1,11/20/2022,44884.74468,28.24,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,JXsa1uHPRySq3ryM41zyAA,701-6697981-4185813,11/19/2022 14:32,1,10/30/2022,44884.74468,28.24,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,tuzof4K/QZuf8qtSHBJMng,701-0246593-5850612,10/29/2022 17:58,1,11/20/2022,44863.88491,172.84,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,v3dhPBlbSTCSIITSjnl/ow,701-6697981-4185813,10/29/2022 17:52,1,11/20/2022,44884.74468,28.24,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,40ItsC5HSCOu0cg9gaufyA,701-6697981-4185813,11/19/2022 14:32,1,10/30/2022,44884.74468,28.24,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,tuzof4K/QZuf8qtSHBJMng,701-0246593-5850612,10/29/2022 17:58,1,10/30/2022,44863.88491,172.84,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,tuzof4K/QZuf8qtSHBJMng,701-0246593-5850612,10/29/2022 17:58,1,10/30/2022,44863.88491,172.84,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,tuzof4K/QZuf8qtSHBJMng,701-0246593-5850612,10/29/2022 17:58,1,10/30/2022,44863.88491,172.84,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,tuzof4K/QZuf8qtSHBJMng,701-0246593-5850612,10/29/2022 17:58,1,11/20/2022,44863.88491,172.84,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,lWilIUQIRRm7S+lUCg4ZEA,701-6697981-4185813,10/29/2022 17:52,1,7/30/2022,44884.74468,28.24,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,6JxhivAhSOOJWa642p6eCQ,701-8654753-3193049,7/29/2022 16:26,1,7/18/2022,44771.84937,18.06,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,hfMQainoTz28sz8totomOg,701-4183346-3687458,7/17/2022 16:40,1,7/30/2022,44759.79016,14.11,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,lJbjkRQjRsyNCZzZ0v6VOA,701-6567644-8981059,7/29/2022 16:25,1,7/30/2022,44771.83287,292.15,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,zce07ROJTA20W8TJZhQF5w,701-6567644-8981059,7/17/2022 16:31,1,6/22/2022,44771.83287,292.15,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,STclFfFSR0uM2NXt+Pgudw,701-0378027-0461807,6/21/2022 17:45,1,6/22/2022,44733.9135,15.44,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,frAYKDxyTeOPmPdaLm7Bbw,701-7982694-5835469,6/21/2022 17:38,1,6/22/2022,44733.90657,81.34,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,frAYKDxyTeOPmPdaLm7Bbw,701-7982694-5835469,6/21/2022 17:38,1,4/22/2022,44733.90657,81.34,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,OYGPoAkcRLadSTOFfuVo7Q,701-3852411-0621830,4/21/2022 19:05,2,4/22/2022,44672.93423,24.8,CAD,Refund,Completed,Final,Item not received,0
+Amazon.ca,OYGPoAkcRLadSTOFfuVo7Q,701-3852411-0621830,4/21/2022 19:05,2,4/22/2022,44672.93423,24.8,CAD,Refund,Completed,Final,Item not received,0
+Amazon.ca,pY2eRf1gQQW4oQMIJsVAGA,701-3852411-0621830,4/21/2022 19:05,1,3/8/2022,44672.93423,24.8,CAD,Refund,Completed,Final,Item not received,0
+Amazon.ca,wmIiNx3HRICtuD4KAEerNA,701-0708299-8565026,3/7/2022 3:26,1,1/23/2022,44627.275,24.84,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,HQzTDttCQIOzT6961r7Fmg,701-0111128-2235475,1/22/2022 16:19,1,1/23/2022,44583.84036,24.3,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,Lv/NQ73oSEqSsxcXD0oYmA,701-5343597-0217037,1/22/2022 16:32,1,1/23/2022,44583.8518,35.9,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,OuLnjBOuTJi0xn9IWZIltw,701-4329685-1773022,1/22/2022 16:12,1,1/23/2022,44583.79881,23.05,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,'+y+sO3VoRy6fR7Wl/JsOeA',701-8034757-2385860,1/22/2022 16:11,1,1/23/2022,44583.80954,29.37,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,t8HLHQuZSTq4beNZWAqm9Q,701-4598119-6309824,1/22/2022 16:19,1,1/23/2022,44583.84096,23.05,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,bux4bCpBQgyq5mjgvkr3qA,701-8034757-2385860,1/22/2022 16:11,1,12/17/2021,44583.80954,29.37,CAD,Refund,Completed,Final,Customer return,0
+Amazon.ca,HTdvVukySBm0kaNKz19WVg,701-1969481-5060205,12/15/2021 22:41,1,9/25/2021,44546.08827,507.22,CAD,Refund,Completed,Final,Item shipped late,0
+Amazon.ca,v0Dn7u5STieBKGUtn20gfQ,701-1679240-6825028,9/24/2021 21:34,1,9/25/2021,44463.98332,86.99,CAD,Refund,Completed,Final,Item not received,0
+Amazon.ca,v0Dn7u5STieBKGUtn20gfQ,701-1679240-6825028,9/24/2021 21:34,1,1/1/1900,44463.98332,86.99,CAD,Refund,Completed,Final,Item not received,0
