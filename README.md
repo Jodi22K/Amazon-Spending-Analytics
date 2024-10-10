@@ -22,7 +22,7 @@ Frequent Amazon shoppers like myself may not have a clear understanding of their
 ### **Methodology:**
 1. **Data Extraction**: Collected raw data from personal Amazon order history (downloaded as CSV).
 2. **Data Cleaning**: Used Excel and Python to clean the data by handling missing values, standardizing category names, and eliminating irrelevant or incomplete data points.
-3. **Data Analysis**: Queried the dataset using SQL to generate insights such as total spend per category and trends over time - built visualizations showcasing data with year-over-year spending, category breakdowns, correlation charts, and spending by month in Python.
+3. **Data Analysis**: Queried the dataset using SQL to generate insights such as total spend per category and trends over time - built visualizations showcasing data with seasonality, year-over-year spending, category breakdowns, correlation charts, and hottest spending days in Python.
 
 #### **Key Steps**:
 **Excel**:
@@ -42,12 +42,12 @@ The analysis provided clear insights into my Amazon spending trends:
 
 1. **Spending Peaks**: There are consistent spikes in spending during major sale events like Black Friday, Cyber Monday, and holiday seasons.
 2. **Top Categories**: The majority of my spending was concentrated in categories like electronics, clothing, beauty/skincare, and home, with lower spending on games and health & wellness over time.
-3. **Monthly Trends**: There is a clear monthly pattern, where spending decreases in Q4 and during sales events but decreases in early months of the year.
+3. **Monthly Trends**: There is a clear monthly pattern, where spending has historical highs during specific summer and fall months (e.g may, June, October - correlation to holiday and summer events) and is lower during February, March, August & November.
 
 ---
 
 ### **Recommendations**:
-1. **Budget Awareness**: Set spending limits based on historical trends to avoid overspending during high-volume periods (e.g., holidays).
+1. **Budget Awareness**: Set spending limits based on historical trends to avoid overspending during high-volume periods - pay attention to seasonality (e.g., controlling excess spending during summer months/holidays).
 2. **Category-Based Spending**: Focus on essential categories and limit impulse purchases, especially in categories with rising costs (e.g., electronics).
 3. **Optimize Sale Purchases**: Use trend data to strategically budget/plan hefty spend purchases before summer months, reduce purchase volumes in beauty/personal care, and take close notice to continue optimizing future savings for meaningful/lasting impacts in health & wellness, whilst reducing general miscellaneous/unnecessary spending.
 
@@ -60,7 +60,7 @@ The analysis provided clear insights into my Amazon spending trends:
 
 ---
 
-By understanding historical spending behavior and leveraging data insights, individuals can make more informed decisions about their future Amazon purchases.
+By understanding historical spending behavior and leveraging data insights, individuals like me can make more informed decisions about their future Amazon purchases.
 
 ---
 
